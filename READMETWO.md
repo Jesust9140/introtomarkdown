@@ -135,6 +135,6 @@ Though Silas was gone, the stories he shared, the lessons he taught, would live 
 
 
 
-[Story](https://github.com/Jesust9140/INTROTOMARKDOWN/Introtomarkdown/AISTORY.md)
+[Story](https://github.com/Jesust9140/introtomarkdown/blob/main/AISTORY.md)
 
 ---
